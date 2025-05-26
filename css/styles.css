@@ -384,14 +384,14 @@ img {
 .img_left {
     border-style : none;
         margin     : 0;
-    width        : 70%;
+    width        : 100%;
     align-items  : left;
 }
 
 .img_right {
     border-style : none;
         margin     : 0;
-    width        : 70%;
+    width        : 100%;
     align-items  : right;
 }
 
