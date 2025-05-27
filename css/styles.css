@@ -2939,7 +2939,7 @@ img.u-pull-left {
 }
 
 .theme-particles .s-intro {
-    background-color : var(--fuente-dark);
+    background : linear-gradient(var(--fuente-dark),var(--fuente-darker));;
 }
 
 .theme-particles .s-intro .s-intro__content {
